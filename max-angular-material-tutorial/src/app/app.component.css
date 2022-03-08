@@ -1,0 +1,8 @@
+mat-icon:hover {
+  font-size: 500px;
+  color: pink;
+}
+mat-icon {
+  font-size: 400px;
+  color: orange;
+}
